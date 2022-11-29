@@ -44,7 +44,6 @@ function isEven(input) {
 //6
 function isIdentical(input1, input2){
     return input1 === input2;
-        }
 }
 //7
 function isEqual(input1, input2){
